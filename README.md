@@ -32,6 +32,7 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 ## Insights from the Project
 * Only some attributes of wine have a relationship with wine quality. For instance, more wines with higher alcohol levels are 'good'. On the other hand, the pH values of a wine does not seem to affect whether a wine will be perceivied as 'good' or 'bad'.
 * Across all wines, some variables such as chlorides follow a normal distribution. On the other hand, other variables like citric acid levels do not follow a normal distribution.
+* Not all data cleaning methods may be appropriate, as feature selection and outlier removal led to lowered model accuracy.
 * Random Forest Classifier was the best model to be used in predicting whether a wine is of good quality, with an accuracy of 77.43% on the test dataset.
 * Decision Tree Classifier performed the worst, with an accuracy of 67.71% on the test dataset.
 * It is possible to predict whether a wine is of good quality, given the physicochemical properties of the wine.
