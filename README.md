@@ -18,7 +18,7 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 * Integrating SMOTE to reduce sample imbalance in machine learning process
 * Hyperparameter tuning using GridSearch with K-Fold cross-validation to optimise model accuracy
 * Implementing and comparing 7 different models as stated below
-* Delivered insights gathered 
+* Deliver insights gathered from data analysis process and machine learning implementations
 
 ## Models Used
 1. Logistic Regression
