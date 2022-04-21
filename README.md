@@ -1,16 +1,9 @@
 # CZ1115-DSAI Predicting Wine Quality
-
-## About
 ![image](https://user-images.githubusercontent.com/61932721/164416481-03f3dbd9-bfca-403d-96ed-5f9ff28771f4.png)
 
 Spoilt for choice? With such a large variety of wine in the shelves of your local supermarket, how can you make an informed decision to enjoy a lovely drink without becoming a pseudo alcoholic?
 
 This is a mini project for CZ1115 Introduction to Data Science and Artificial Intelligence, which aims to predict the wine quality from the physicochemical properties of wine.
-
-## Contributors
-@timtheteh - Data Extraction, Data Cleaning, Data Visualisation
-@hashtagyx - Implementation of Machine Learning Models: Logistic Regression, Gaussian Naive Bayes, Decision Tree
-@zero0zero7 - Implementation of Machine Learning Models: Random Forest, AdaBoost, CatBoost, Gradient Boosting Classifier
 
 ## Problem Definition
 * Given the physicochemical properties of a wine, predict whether a wine is of good quality (Rating >= 6).
@@ -31,6 +24,11 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 * Random Forest Classifier was the best model to be used in predicting whether a wine is of good quality, with an accuracy of 82.95% on the test dataset.
 * Gaussian Naive Bayes performed the worst, with an accuracy of 68.60% on the test dataset.
 * It is possible to predict whether a wine is of good quality, given the physico chemical properties of the wine.
+
+## Contributors
+@timtheteh - Data Extraction, Data Cleaning, Data Visualisation
+@hashtagyx - Implementation of Machine Learning Models: Logistic Regression, Gaussian Naive Bayes, Decision Tree
+@zero0zero7 - Implementation of Machine Learning Models: Random Forest, AdaBoost, CatBoost, Gradient Boosting Classifier
 
 ## References
 * https://archive.ics.uci.edu/ml/datasets/wine+quality
