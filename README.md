@@ -27,8 +27,11 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 
 ## Contributors
 @timtheteh - Data Extraction, Data Cleaning, Data Visualisation
+
 @hashtagyx - Implementation of Machine Learning Models: Logistic Regression, Gaussian Naive Bayes, Decision Tree
+
 @zero0zero7 - Implementation of Machine Learning Models: Random Forest, AdaBoost, CatBoost, Gradient Boosting Classifier
+
 
 ## References
 * https://archive.ics.uci.edu/ml/datasets/wine+quality
