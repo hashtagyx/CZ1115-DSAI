@@ -6,8 +6,19 @@ Spoilt for choice? With such a large variety of wine in the shelves of your loca
 This is a mini project for CZ1115 Introduction to Data Science and Artificial Intelligence, which aims to predict the wine quality from the physicochemical properties of wine.
 
 ## Problem Definition
-* Given the physicochemical properties of a wine, predict whether a wine is of good quality (Rating >= 6).
+* Given the physicochemical properties of a wine, can we predict whether a wine is of good quality (Rating >= 6)?
 * Which model best predicts the wine quality?
+
+## Procedure
+* Exploratory data analysis of wine dataset
+* Removing duplicates in dataset
+* Reformatting 'quality' to a binary variable
+* Comparing performance of models with and without feature selection
+* Comparing performance of models with and without outlier removal
+* Integrating SMOTE to reduce sample imbalance in machine learning process
+* Hyperparameter tuning using GridSearch with K-Fold cross-validation to optimise model accuracy
+* Implementing and comparing 7 different models as stated below
+* Delivered insights gathered 
 
 ## Models Used
 1. Logistic Regression
