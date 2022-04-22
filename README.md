@@ -15,14 +15,12 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 * Removing duplicates in dataset
 * Reformatting 'quality' to a binary variable
 * Exporting reformatted dataset into .csv file
-
-
-2.1 Modelling without Duplicates, 2.2 Modelling without Outliers
+<br>
+2.1 Modelling without Duplicates, 2.2 Modelling without Outliers <br>
 2.3 Modelling with Feature Selection, 2.4 Modelling without Outliers and with Feature Selection
 * Comparing performance of models with and without feature selection
 * Comparing performance of models with and without outlier removal
-
-
+<br>
 3. Final Modelling with SMOTE
 * Integrating SMOTE to reduce sample imbalance in machine learning process
 * Hyperparameter tuning using GridSearch with K-Fold cross-validation to optimise model accuracy
